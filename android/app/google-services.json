@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860616297225",
+    "project_id": "cryptocurrency-21d5c",
+    "storage_bucket": "cryptocurrency-21d5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860616297225:android:7f45668d0319a689bee1d8",
+        "android_client_info": {
+          "package_name": "com.example.Cryptocurrency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8SC9xGbcuteR9QjkQHgWtTkeVqTpbYkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
